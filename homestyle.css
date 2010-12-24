@@ -1,0 +1,104 @@
+body {
+	background: black;
+}
+.container {
+	background:	white;
+}
+
+#search_box {
+	float:right;
+}
+
+
+a {
+	text-decoration:none;
+	font-weight:bold;
+	font-size:15px;
+	
+}
+#toplinks a:hover {
+	background-color:black;
+} 
+
+ul {
+	list-style-type : none;
+}
+
+li {
+	display:inline;
+}
+
+#toplinks {
+	text-align:right;
+	word-spacing:40px;
+}
+
+#bottomlinks {
+	text-align:center;
+	word-spacing:40px;
+}
+
+#topcontent {
+	height:170px;
+}
+
+#midcontent {
+	height:200px;
+}
+
+#bottomcontent {
+	height:170px;
+} 
+
+.spacer {
+	height:2em;
+}
+
+.colborder {
+	height:150px;
+}
+
+#one {
+	color:#FF00FF;
+}
+
+#two {
+	color:	#DC143C;
+}
+
+#three {
+	color: 	#00CED1;
+}
+
+#four {
+	color:#228B22;
+}
+
+#five {
+	color:	#0000CD;
+}
+
+#six {
+	color:	#808000;
+}
+
+#seven {
+	color:	#FF0000;
+}
+
+#eight {
+	color:	#008080;
+}
+
+#nine {
+	color:	#FF6347;
+}
+
+#ten {
+	color:	#00FF00;
+}
+
+h3 {
+	font-size:22px;
+}
+
